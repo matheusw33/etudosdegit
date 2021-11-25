@@ -1,0 +1,3 @@
+Olá, esse é um arquivo adicionado a partir
+de um branch baseada na branch principal 
+com comando "git checkout -b"
